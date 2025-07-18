@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RitChakraborty21
-- 👀 I’m interested in Wed Development Frameworks
+- 👀 I’m interested in Web Development Frameworks
 - 🌱 I’m currently learning Deployment Automation
-- 💞️ I’m looking to collaborate on React Projects
+- 💞️ I’m looking to collaborate on Nextjs Projects
 - 📫 How to reach me @RitChakraborty21
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Veg Biriyani is not Biriyani , its pulao 
